@@ -1,0 +1,20 @@
+.data {
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 6px;
+
+
+    &__space {
+        text-align: center;
+
+        &__title {
+            font-size: 40px;
+            padding-bottom: 10px;
+        }
+
+        &__text {
+            font-size: 20px;
+        }
+    }
+    
+}
